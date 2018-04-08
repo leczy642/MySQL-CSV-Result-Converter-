@@ -1,0 +1,35 @@
+table {
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.button {
+    background-color: rgb(66, 133, 244);
+    border: none;
+    color: white;
+    padding: 16px 33px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 3px;
+	letter-spacing: 1px;
+}
+ 
