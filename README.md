@@ -8,7 +8,7 @@ The application is built using HTML and CSS frontend, with PHP and MySQL backend
 To install application
 
 1. Download application
-2. Unzip the file and move to your PHP XAMPP/MAMP/LAMP server's directory. Ensure you take note of the file name (MySQL-CSV-Result-Converter)
+2. Unzip the file and move to your PHP XAMPP/MAMP/LAMP server's directory. Ensure you take note of the [app_folder_name] (MySQL-CSV-Result-Converter)
 4. Import the csvconvertdb.sql file into mysql to create the application database with predefined tables.
 5. Run the script in your browser
 
