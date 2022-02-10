@@ -13,6 +13,6 @@ To install application
 5. Run the script in your browser
 
 # Running the application
-on your browser type : localhost/[folder_name]
+on your browser type : localhost/[app_folder_name]
 
 
