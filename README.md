@@ -15,4 +15,5 @@ To install application
 # Running the application
 On your browser type : localhost/[app_folder_name]
 
+*Update: 1 New record added 2/11/2022
 
